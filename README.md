@@ -7,7 +7,7 @@
 * Introdução
 * Programação
 * Estátiscica
-* Mateática
+* Matemática
 * Machine Learning
 * Data Wranglin / Munging
 * Visualização De Dados e Comunicação
